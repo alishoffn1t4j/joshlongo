@@ -12,7 +12,7 @@
         }
     }
 
-    defineLocale(['zh', 'zh-CN'], {
+    defineLocale(['zh', 'zh-cn'], {
         btn: ['确定', '取消'],
         title: '消息',
         noImage: '有没图片',
@@ -21,7 +21,7 @@
         maxLengthError: '最多输入{}个数字'
     })
 
-    defineLocale(['en',], {
+    defineLocale(['en', 'en-gb'], {
         btn: ['Ok', 'Cancel'],
         title: 'Information',
         noImage: 'No image',
